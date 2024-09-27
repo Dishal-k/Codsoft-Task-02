@@ -5,4 +5,4 @@ Task 02 : Implement an Al agent that plays the classic game of Tic-Tac-Toe again
 
 In this project, I've delved into the intriguing world of artificial intelligence, creating an AI agent capable of playing Tic-Tac-Toe against a human opponent. I've implemented algorithms such as Minimax, with or without Alpha-Beta Pruning, to ensure that the AI player is unbeatable.
 
-This endeavor not only introduces you to game theory but also provides a hands-on exploration of fundamental search algorithms. I'm eager to dive deeper into this project and explore even more meaningful and efficient ways to enhance the AI's capabilities.
+
